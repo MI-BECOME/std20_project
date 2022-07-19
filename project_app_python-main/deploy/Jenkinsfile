@@ -30,7 +30,7 @@ pipeline {
         }
         post {
             always {
-                echo "Docker build success!"
+                echo "Docker build success!!!"
             }
         }
     }
