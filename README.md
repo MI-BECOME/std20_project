@@ -1,1 +1,0 @@
-# std20_project
